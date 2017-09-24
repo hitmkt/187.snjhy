@@ -1,0 +1,97 @@
+/* Descriptive colors */
+/* Color usage */
+.svgLogoText {
+  fill: #1A2822; }
+
+.home-content h1 {
+  color: #1A2822 !important; }
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  background: #1A2822 !important; }
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  background: #1A2822 !important; }
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #fff;
+  background: #1A2822 !important; }
+
+.boxed-icon .icon {
+  color: #1A2822 !important;
+  font-size: 1.5rem; }
+
+.boxed-icon {
+  border: solid 2px #1A2822 !important; }
+
+.treatments .icon {
+  font-size: 1.5rem;
+  color: #1A2822; }
+
+.team {
+  overflow: hidden;
+  color: #fff;
+  background: #515C46 !important; }
+
+.team .expandable-box-top {
+  padding: 20px;
+  background: #1A2822 !important; }
+
+.team .expandable-box {
+  border-right: solid 1px #1A2822 !important; }
+
+.expandable-box-bottom a:last-child, .expandable-box-bottom span:last-child {
+  background: #1A2822 !important; }
+
+.expandable-box-bottom a:first-child, .expandable-box-bottom span:first-child {
+  background: #1A2822 !important; }
+
+.main-footer {
+  background: #1A2822 !important; }
+
+.testimonials .overlay-container .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  background: rgba(245, 242, 0, 0.5); }
+
+.three-shade-col [class^="col-"]:nth-child(1) {
+  background: #1A2822 !important; }
+
+.three-shade-col [class^="col-"]:nth-child(2) {
+  background: #515C46 !important; }
+
+.three-shade-col [class^="col-"]:nth-child(3) {
+  background: #6A5368 !important; }
+
+.three-shade-col [class^="col-"]:nth-child(4) {
+  background: #1A2822 !important; }
+
+.btn-success {
+  color: #fff;
+  background-color: #1A2822;
+  border-color: #515C46; }
+
+.btn-success:focus,
+.btn-success.focus {
+  color: #fff;
+  background-color: #1A2822;
+  border-color: #515C46; }
+
+.btn-success:hover {
+  color: #fff;
+  background-color: #515C46;
+  border-color: #1A2822; }
+
+.main .icon {
+  margin-right: 10px;
+  color: #1A2822;
+  vertical-align: top; }
+
+.userEL427543 hr {
+  border: 0;
+  border-top: 15px solid #1A2822;
+  height: 1px; }
